@@ -1,0 +1,11 @@
+[user]
+	email = yaku.mioto@gmail.com
+	name = yakumioto
+[core]
+	editor = vim
+[url "git@gitlab.bigtree.com:"]
+	insteadOf = https://gitlab.bigtree.com/
+[push]
+	default = current
+[url "git@git.mioto.me:"]
+	insteadOf = https://git.mioto.me/
